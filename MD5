@@ -1,4 +1,4 @@
-29b5985cd7a9bb6909f647297aa9adf1 *DESCRIPTION
+18f72f7ebec9649e0bac8751ad421dae *DESCRIPTION
 acfb156d9b7afceef13d85934b8cd776 *NAMESPACE
 8898d94f86b7a4c03c4c06f861adc6f7 *R/bin-archive.R
 7f68835b21620e0e9ad446753c111efd *R/bin-delete.R
@@ -12,7 +12,7 @@ a469143187c6cdff67aae0dd2916f97a *R/file-delete.R
 bc411b5e6305cf4f402a6ec79326343a *R/http.R
 ef6fe325de02ec9dff49a787f6f12099 *R/lorem-ipsum.R
 c86302985b2ec4642b13f832cffc500c *R/util.R
-c74143c91a3503bbadc1396786e32b4a *README.md
+7a2603a71ff1f34f0916629c2b6e4ac1 *README.md
 7b76b9ca9046779aa5b1e39fa902c820 *inst/WORDLIST
 9811683b60f15d351ae6ff700e44d2c2 *inst/hex/filebin-hex.R
 e4c6a7e7a3f87c7af237e3422689d6e1 *inst/hex/filebin-logo.png
